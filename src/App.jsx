@@ -1,7 +1,7 @@
 import Navbar from "./components/Navbar";
 import Signup from "./components/Signup";
 import UserCard from "./components/UserCard";
-
+// import "../src/assets/css/App.css";
 function App() {
   return (
     <div>

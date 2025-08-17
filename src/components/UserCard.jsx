@@ -1,6 +1,3 @@
-import React from "react";
-import "../App.css";
-
 const UserCard = ({ name, email }) => {
   return (
     <div className="user-card">
